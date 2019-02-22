@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <color name="colorWhite0">#00FFFFFF</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorWhite8">#14FFFFFF</color>
+    <color name="colorWhite10">#1AFFFFFF</color>
+    <color name="colorWhite12">#1FFFFFFF</color>
+    <color name="colorWhite22">#38FFFFFF</color>
+    <color name="colorWhite32">#52FFFFFF</color>
+    <color name="colorWhite40">#66FFFFFF</color>
+    <color name="colorWhite50">#80FFFFFF</color>
+    <color name="colorWhite72">#B8FFFFFF</color>
+    <color name="colorBlack87">#DE000000</color>
+    <color name="colorGray">#D6D7D9</color>
+    <color name="colorLightGray">#696969</color>
+    <color name="colorBlue">#009DDF</color>
+    <color name="colorBlue16">#29009DDF</color>
+    <color name="colorBlue30">#4D009DDF</color>
+    <color name="colorBlue60">#99009DDF</color>
+    <color name="colorRed">#D0021B</color>
+    <color name="colorGreen">#6EAD32</color>
+
+    <color name="colorPrimary">@color/colorBlue</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">@color/colorBlue</color>
+    <color name="colorAccent22">#38009DDF</color>
+
+    <color name="colorLightVeryTransparent">#14FFFFFF</color>
+    <color name="colorLightTransparent">#52FFFFFF</color>
+
+    <color name="colorSecondary">#00348A</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorBackgroundCell">@color/colorWhite</color>
+
+    <color name="colorSuccess">#6EAD32</color>
+    <color name="colorFailure">#FF0000</color>
+    <color name="colorWarning">#FF8800</color>
+    <color name="colorInfo">#8888FF</color>
+    <color name="colorSemiRed">#D0021B</color>
+
+    <color name="colorText">#B8333333</color>
+    <color name="colorText100">#FF333333</color>
+    <color name="colorText90">#E6333333</color>
+    <color name="colorText72">#B8333333</color>
+    <color name="colorTextSecondary">#888A8F</color>
+    <color name="colorTextTertiary">@color/colorGray</color>
+    <color name="colorTextInverted">@color/colorWhite</color>
+    <color name="colorTextInvertedDisable">#50FFFFFF</color>
+    <color name="colorDisabled">@color/colorGray</color>
+    <color name="colorTextSemiDark">#888A8F</color>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorBorder">#979797</color>
+
+    <color name="colorStatusBar">#14000000</color>
+
+    <color name="colorListBorder">@color/colorGray</color>
+    <color name="colorLargeShadow">#A000348A</color>
+
+    <color name="colorWhiteEditMode">@color/colorWhite</color>
+    <color name="colorDarkEditMode">#333333</color>
+
+    <color name="colorTaskCard1">#FF80CEEF</color>
+    <color name="colorTaskCard2">#FFBFE6F7</color>
 </resources>
